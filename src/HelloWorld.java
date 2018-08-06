@@ -9,5 +9,6 @@ public class HelloWorld {
 			System.out.println("눈이 막 감키고 있음");
 			
 			System.out.println("커밋");
+			System.out.println("커밋추가");
 		}
 }
